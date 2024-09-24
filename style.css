@@ -1,0 +1,61 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+/* background-image: url(https://www.shutterstock.com/image-illustration/abstract-indian-tri-colour-flag-260nw-2178514361.jpg); */
+background-size:cover;
+background-color: rgb(244, 191, 230);
+}
+.main_header{
+font-size: 100px;
+font-family:cursive;
+text-align: center;
+color: rgb(33, 1, 1);
+}
+.tag1{
+    text-align: center;
+    font-size: 80px;
+    margin: 100px 20px;
+    background: none;
+    color: #4f0202;
+}
+.container{
+    text-align:center;
+    
+    font-size: 40px;
+   
+}
+.container h2{
+    font-size: 70px;
+    color: rgb(64, 65, 107);
+
+}
+.icon-container{
+    justify-content: center;
+
+    
+}
+.icon-button{
+    position: relative;
+    border: 8px solid rebeccapurple;
+    background-color: transparent;
+    font-size: 80px;
+    color: black;
+    cursor: pointer;
+    overflow: hidden;
+    height: 1000px;
+    width: 1000px;
+    margin: 40px;
+}
+#fire{
+    background-image: url("fire.jpg");
+}
+#Road{
+    background-image: url("accident.jpg");
+}
+#assault{
+    background-image: url("assult.jpg");
+}
+#medical{
+    background-image: url("doctor.jpg");
+}
